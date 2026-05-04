@@ -10,3 +10,8 @@ This project is built using React, a popular JavaScript library for building use
 🔄 State management using hooks
 📱 Responsive design
 🔌 Easy integration with APIs
+
+🛠️ Tech Stack
+Frontend: React, HTML5, CSS3, JavaScript
+Package Manager: npm / yarn
+Build Tool: Vite / Create React App
