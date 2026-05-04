@@ -38,3 +38,10 @@ Navigate to the project folder
 cd project-name
 Install dependencies
 npm install
+
+▶️ Run the Project
+npm start
+
+The app will run at:
+
+http://localhost:3000
