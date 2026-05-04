@@ -30,3 +30,11 @@ project-name/
 │
 ├── package.json
 └── README.md
+
+⚙️ Installation
+Clone the repository
+git clone https://github.com/your-username/project-name.git
+Navigate to the project folder
+cd project-name
+Install dependencies
+npm install
