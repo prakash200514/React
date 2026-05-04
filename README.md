@@ -48,3 +48,8 @@ http://localhost:3000
 
 📦 Build for Production
 npm run build
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repository and submit a pull request.
