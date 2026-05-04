@@ -4,7 +4,7 @@
 
 This project is built using React, a popular JavaScript library for building user interfaces. It focuses on creating reusable components and delivering a fast, responsive web experience.
 
-🚀 Features
+🚀 Features<br>
 ⚡ Fast and dynamic UI rendering<Br>
 🧩 Component-based architecture<br>
 🔄 State management using hooks<br>
