@@ -15,3 +15,18 @@ This project is built using React, a popular JavaScript library for building use
 Frontend: React, HTML5, CSS3, JavaScript
 Package Manager: npm / yarn
 Build Tool: Vite / Create React App
+
+📂 Project Structure
+project-name/
+│
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   ├── index.js
+│
+├── package.json
+└── README.md
